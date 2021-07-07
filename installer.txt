@@ -1,0 +1,1 @@
+pyinstaller.exe   --windowed --noconsole --clean --onefile --exclude matplotlib --exclude numpy --exclude gtts --exclude gTTS --exclude speech_recognition --exclude pandas --exclude gtts_token --exclude pyttsx3 --exclude spicy --exclude PyQt5 Login.py
